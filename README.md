@@ -51,3 +51,9 @@ most_read_books.head(3)
 ## Genre
 
 The genre values for each book that have at least 10 votes. 
+
+```python
+import pandas as pd
+genre_df = pd.read_csv('CleanedBookGenreVotesAbove10.csv')
+genre_df.head(3)
+```
