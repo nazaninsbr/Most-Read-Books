@@ -33,6 +33,13 @@ The most read books of 2019, the following information is available for each boo
 * author_url
 
 
+```python
+import pandas as pd
+
+most_read_books = pd.read_csv('most_read_books.csv')
+most_read_books.head(10)
+```
+
 ## Genre
 
 The genre values for each book that have at least 10 votes. 
