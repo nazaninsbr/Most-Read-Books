@@ -3,7 +3,9 @@
 This repository contains the Most read books of 2019 dataset analyzed in the paper:
 
 Title: "A cross-country study on cultural similarities based on book preferences"
+
 Authors: Nazanin Sabri, Sadaf Sadeghian, Behnam Bahrak
+
 DOI: https://doi.org/10.1007/s13278-020-00695-y
 
 If you use this dataset in your work, please cite our paper:
