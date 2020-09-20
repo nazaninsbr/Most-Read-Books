@@ -54,6 +54,15 @@ The genre values for each book that have at least 10 votes.
 
 ```python
 import pandas as pd
+
 genre_df = pd.read_csv('CleanedBookGenreVotesAbove10.csv')
 genre_df.head(3)
 ```
+
+|Book_URL|	Genre|	Votes_num|	Voters|
+|---|---|---|---|
+|/book/show/11588.The_Shining|	to-read|	457858|	https://www.goodreads.com/user/show/214499-and...|
+|/book/show/11588.The_Shining|	currently-reading|	20401|	https://www.goodreads.com/user/show/351583-lor...|
+|/book/show/11588.The_Shining|	horror|	13464|	https://www.goodreads.com/user/show/358415-rob...|
+
+
