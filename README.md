@@ -15,9 +15,21 @@ The data was collected from Goodreads.
 
 ## Most Read Books
 The most read books of 2019, the following information is available for each book. 
-```python
-Country,crawl_date,duration_type,generation_date,rank,book_url,book_title,book_cover_url,published_year,number_of_reads,average_rating,number_of_ratings,author_url
-```
+
+* Country
+* crawl_date
+* duration_type
+* generation_date
+* rank
+* book_url
+* book_title
+* book_cover_url
+* published_year
+* number_of_reads
+* average_rating
+* number_of_ratings
+* author_url
+
 
 ## Genre
 
