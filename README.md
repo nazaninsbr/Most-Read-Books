@@ -37,7 +37,7 @@ The most read books of 2019, the following information is available for each boo
 import pandas as pd
 
 most_read_books = pd.read_csv('most_read_books.csv')
-most_read_books.head(5)
+most_read_books.head(3)
 ```
 
 
