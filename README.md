@@ -10,6 +10,7 @@ DOI: https://doi.org/10.1007/s13278-020-00695-y
 
 If you use this dataset in your work, please cite our paper:
 
+Sabri, N., Sadeghian, S. & Bahrak, B. A cross-country study on cultural similarities based on book preferences. Soc. Netw. Anal. Min. 10, 86 (2020). https://doi.org/10.1007/s13278-020-00695-y
 
 # Dataset
 
